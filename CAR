@@ -1,7 +1,12 @@
-
+/**
+ * @author 1092052 
+ */
 #include <iostream>
 #include <string>
 using namespace std;
+/**
+ *class類別是將資料以及函數組織在同一個結構的方法。
+ */
 class CCAR {
 private:
 string nickname;
